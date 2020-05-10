@@ -1,0 +1,10 @@
+C:\Users\Anis\source\repos\StagMoy\bin\Debug\StagMoy.exe.config
+C:\Users\Anis\source\repos\StagMoy\bin\Debug\StagMoy.exe
+C:\Users\Anis\source\repos\StagMoy\bin\Debug\StagMoy.pdb
+C:\Users\Anis\source\repos\StagMoy\obj\Debug\StagMoy.csprojAssemblyReference.cache
+C:\Users\Anis\source\repos\StagMoy\obj\Debug\StagMoy.Form1.resources
+C:\Users\Anis\source\repos\StagMoy\obj\Debug\StagMoy.Properties.Resources.resources
+C:\Users\Anis\source\repos\StagMoy\obj\Debug\StagMoy.csproj.GenerateResource.cache
+C:\Users\Anis\source\repos\StagMoy\obj\Debug\StagMoy.exe
+C:\Users\Anis\source\repos\StagMoy\obj\Debug\StagMoy.pdb
+C:\Users\Anis\source\repos\StagMoy\obj\Debug\StagMoy.frmSaisieCal.resources
